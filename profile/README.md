@@ -52,8 +52,6 @@
 - **Candid.** Every project publishes its decision records, a maturity label, and a "when not
   to use this." Pre-1.0 is stated wherever it's true.
 
-> Accounts required: **0** &nbsp;·&nbsp; Telemetry sent: **none** &nbsp;·&nbsp; Decisions documented: **600+ ADRs**
-
 ---
 
 ### Get involved
