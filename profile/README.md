@@ -23,10 +23,10 @@
 - **[Koi](https://github.com/sylin-org/koi)**, *the network*. A LAN toolbox: discover
   services, name them, trust them, serve them, all from one cross-platform binary with no
   accounts and no cloud. Label a container and the whole pipeline runs. Rust. &nbsp;`v0.9.0`
-- **[Ghostlight](https://github.com/sylin-org/ghostlight)**, *the guardian*. Let an AI agent
-  drive *your* real browser, logins, tabs, and sessions included, governed when you want it
-  and wide open when you don't. Works from any MCP client. The engine is open source;
-  organizations pay only for governance, never for autonomy. &nbsp;`v0.5.4 · open-core`
+- **[Ghostlight](https://github.com/sylin-org/ghostlight)**, *the browser workspace*. Give
+  compatible AI agents a visible place in the Chromium profile you already use. Signed-in
+  sessions stay in the browser, the work stays in view, and you can pause, take over, or add
+  policy and audit when the job calls for them. &nbsp;`v0.7.3 / open-core`
 - **[Zen Garden](https://github.com/sylin-org/zen-garden)**, *the estate*. Turn the laptops
   and thin clients headed for landfill into self-hosted infrastructure that survives a
   machine dying: ask for services by type, never by hostname. Rust. &nbsp;`v0.2.0 · active`
